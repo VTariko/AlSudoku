@@ -14,7 +14,7 @@ namespace AlSudoku
 	class LogicDigits
 	{
 		private static Canvas _canvas;
-		private const int SIZE_CUBE = 3;
+		private const int SIZE_CUBE = 6;
 		private static int _w;
 		private static int _h;
 		private static int _wCell;
