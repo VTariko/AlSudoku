@@ -1,0 +1,13 @@
+D:\Code\C#\AlSudoku\AlSudoku\bin\Release\AlSudoku.exe.config
+D:\Code\C#\AlSudoku\AlSudoku\bin\Release\AlSudoku.exe
+D:\Code\C#\AlSudoku\AlSudoku\bin\Release\AlSudoku.pdb
+D:\Code\C#\AlSudoku\AlSudoku\obj\Release\MainWindow.g.cs
+D:\Code\C#\AlSudoku\AlSudoku\obj\Release\App.g.cs
+D:\Code\C#\AlSudoku\AlSudoku\obj\Release\AlSudoku_MarkupCompile.cache
+D:\Code\C#\AlSudoku\AlSudoku\obj\Release\AlSudoku_MarkupCompile.lref
+D:\Code\C#\AlSudoku\AlSudoku\obj\Release\MainWindow.baml
+D:\Code\C#\AlSudoku\AlSudoku\obj\Release\AlSudoku.g.resources
+D:\Code\C#\AlSudoku\AlSudoku\obj\Release\AlSudoku.Properties.Resources.resources
+D:\Code\C#\AlSudoku\AlSudoku\obj\Release\AlSudoku.csproj.GenerateResource.Cache
+D:\Code\C#\AlSudoku\AlSudoku\obj\Release\AlSudoku.exe
+D:\Code\C#\AlSudoku\AlSudoku\obj\Release\AlSudoku.pdb

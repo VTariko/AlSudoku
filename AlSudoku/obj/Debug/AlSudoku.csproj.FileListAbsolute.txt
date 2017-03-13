@@ -1,0 +1,16 @@
+D:\Code\C#\AlSudoku\AlSudoku\bin\Debug\AlSudoku.exe.config
+D:\Code\C#\AlSudoku\AlSudoku\bin\Debug\AlSudoku.exe
+D:\Code\C#\AlSudoku\AlSudoku\bin\Debug\AlSudoku.pdb
+D:\Code\C#\AlSudoku\AlSudoku\obj\Debug\AlSudoku.csprojResolveAssemblyReference.cache
+D:\Code\C#\AlSudoku\AlSudoku\obj\Debug\MainWindow.g.cs
+D:\Code\C#\AlSudoku\AlSudoku\obj\Debug\App.g.cs
+D:\Code\C#\AlSudoku\AlSudoku\obj\Debug\AlSudoku_MarkupCompile.cache
+D:\Code\C#\AlSudoku\AlSudoku\obj\Debug\AlSudoku_MarkupCompile.lref
+D:\Code\C#\AlSudoku\AlSudoku\obj\Debug\MainWindow.baml
+D:\Code\C#\AlSudoku\AlSudoku\obj\Debug\AlSudoku.g.resources
+D:\Code\C#\AlSudoku\AlSudoku\obj\Debug\AlSudoku.Properties.Resources.resources
+D:\Code\C#\AlSudoku\AlSudoku\obj\Debug\AlSudoku.csproj.GenerateResource.Cache
+D:\Code\C#\AlSudoku\AlSudoku\obj\Debug\AlSudoku.exe
+D:\Code\C#\AlSudoku\AlSudoku\obj\Debug\AlSudoku.pdb
+D:\Code\C#\AlSudoku\AlSudoku\obj\Debug\Digits.g.cs
+D:\Code\C#\AlSudoku\AlSudoku\obj\Debug\Digits.baml

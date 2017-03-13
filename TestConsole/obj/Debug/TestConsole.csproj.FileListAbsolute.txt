@@ -1,0 +1,8 @@
+D:\Code\C#\AlSudoku\TestConsole\bin\Debug\TestConsole.exe.config
+D:\Code\C#\AlSudoku\TestConsole\bin\Debug\TestConsole.exe
+D:\Code\C#\AlSudoku\TestConsole\bin\Debug\TestConsole.pdb
+D:\Code\C#\AlSudoku\TestConsole\bin\Debug\AlSudoku.exe
+D:\Code\C#\AlSudoku\TestConsole\bin\Debug\AlSudoku.pdb
+D:\Code\C#\AlSudoku\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+D:\Code\C#\AlSudoku\TestConsole\obj\Debug\TestConsole.exe
+D:\Code\C#\AlSudoku\TestConsole\obj\Debug\TestConsole.pdb
